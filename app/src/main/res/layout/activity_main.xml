@@ -48,14 +48,17 @@
                android:layout_height="wrap_content"
                android:orientation="vertical"
                android:padding="10dp"
+
                >
                <TextView
                    android:layout_width="match_parent"
                    android:layout_height="wrap_content"
-                   android:textSize="50dp"
+                   android:textSize="40dp"
                    android:textColor="#000000"
                    android:id="@+id/tempText"
                    android:text="Text Temp"/>
+
+
 
 
                >
@@ -75,8 +78,6 @@
                    android:textColor="#000000"
                    android:id="@+id/humText"
                    android:text="Humidity"/>
-
-
 
 
 
